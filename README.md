@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio! Este repositório contém um site que reúne todos 
 
 Meu portfólio é um site simples e intuitivo que apresenta uma coleção dos meus projetos mais recentes. Cada projeto é acompanhado por uma breve descrição e um link para o repositório correspondente no GitHub ou para o próprio projeto, se aplicável.
 
-<img src="https://s4.ezgif.com/tmp/ezgif-4-c061ce7424.gif" alt="Portfólio" width="500" heigh='400' style="border-radius: 10px;">
+![ezgif-6-f796bb7c40](https://github.com/Vaconer/Vaconer/assets/106969683/0a86b89d-53fb-45db-83f7-f830567275f2)
 
 ## Acesso ao Portfólio
 
